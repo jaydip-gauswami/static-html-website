@@ -16,3 +16,6 @@ Deploy a simple static website using **GitHub Pages**.
 - Git & GitHub
 - GitHub Pages (for hosting)
 
+## 🌐 Live Website Link
+
+https://jaydip-gauswami.github.io/static-html-website/
